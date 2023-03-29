@@ -1,10 +1,8 @@
-# Patrons Importer plugin for Koha
+# Report Mailer plugin for Koha
 
-This plugin will automatically download patron CSV files and import them into Koha
+This plugin will allow a report to be run on the nightly plugins cron
 
 # Downloading
-
-From the [release page](https://github.com/bywatersolutions/koha-plugin-patrons-importer/releases) you can download the latest release in `kpz` format.
 
 # Installation
 
